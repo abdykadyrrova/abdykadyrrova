@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Zhyldyz - @abdykadyrrova
 - 👀 I’m deeply interested in Computer Science 
-- 🌱 I’m currently learning Cloud Engineering, specifically AWS and Automation Tools
+- 🌱 I’m currently learning Cloud Engineering, specifically AWS and Cloud Automation Tools
 - 💞️ My hobby is traveling and experiencing new things! 
 
 <!---
