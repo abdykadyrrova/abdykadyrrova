@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Zhyldyz - @abdykadyrrova
-- 👀 I’m deeply interested in Computer Science 
-- 🌱 I’m currently learning Cloud Engineering, specifically AWS and Cloud Automation Tools
-- 💞️ My hobby is traveling and experiencing new things! 
+- 👀 I’m interested in Cloud Engineering 
+- 🌱 I’m currently learning AWS and Cloud Automation Tools
+- 💞️ My hobby is traveling and photography
 
 <!---
 abdykadyrrova/abdykadyrrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
