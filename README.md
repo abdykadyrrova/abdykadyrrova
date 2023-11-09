@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Zhyldyz - @abdykadyrrova
-- 👀 I’m interested in Cloud Engineering 
-- 🌱 I’m currently learning AWS and Cloud Automation Tools
+- 👀 I’m a DevOps Engineer and I am open for new opportunities
 - 💞️ My hobby is traveling and photography
 
 <!---
