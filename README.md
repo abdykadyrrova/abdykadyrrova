@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Zhyldyz - @abdykadyrrova
-- 👀 I’m a DevOps Engineer and I am open for new opportunities
+- 👀 I’m a DevOps Engineer
 - 💞️ My hobby is traveling and photography
 
 <!---
